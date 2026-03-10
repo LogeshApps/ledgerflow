@@ -10,7 +10,17 @@
       "createdAt": 1773144580505
     }
   ],
-  "workers": [],
+  "workers": [
+    {
+      "name": "Loki",
+      "phone": "978282",
+      "address": "",
+      "workType": "Labour",
+      "notes": "Dummy",
+      "id": "i81p25d0mmkkj67o",
+      "createdAt": 1773144631860
+    }
+  ],
   "transactions": [],
   "companyName": "My Company",
   "companyAddress": "",
