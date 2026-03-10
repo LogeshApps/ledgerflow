@@ -1,9 +1,26 @@
 {
-  "customers": [],
+  "customers": [
+    {
+      "name": "Logesh",
+      "phone": "+919894058144",
+      "address": "Old 23k-1, New 26, Nandhini Illam\nRaj nagar, Selvapuram",
+      "workType": "",
+      "notes": "",
+      "id": "dzpcc3x5mmkki2l5",
+      "createdAt": 1773144580505
+    }
+  ],
   "workers": [],
   "transactions": [],
   "companyName": "My Company",
   "companyAddress": "",
   "companyPhone": "",
-  "users": [{"id":"u1","username":"admin","password":"admin123","role":"admin"}]
+  "users": [
+    {
+      "id": "u1",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ]
 }
